@@ -8,7 +8,9 @@ public class deneme {
         System.out.println("selçuk");
         System.out.println("proje");
         System.out.println();
-        System.out.println();
+        System.out.println("Bu da benim degisikligim");
+
+
 
     }
 }
