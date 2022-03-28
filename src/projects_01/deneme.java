@@ -6,7 +6,7 @@ public class deneme {
         System.out.println("selçuk");
         System.out.println("proje");
         System.out.println("kadir");
-        System.out.println("filiz");
+        System.out.println("filiz2");
 
     }
 }
