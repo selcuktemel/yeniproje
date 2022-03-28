@@ -10,6 +10,9 @@ public class deneme {
         System.out.println();
         System.out.println();
         System.out.println("branch de");
+        System.out.println();
+        System.out.println("tekrar");
+        System.out.println("tkrar");
 
     }
 }
