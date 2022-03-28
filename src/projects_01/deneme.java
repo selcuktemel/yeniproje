@@ -9,6 +9,8 @@ public class deneme {
         System.out.println("proje");
         System.out.println();
         System.out.println("Bu da benim degisikligim");
+        System.out.println("Simdi oldu mu acaba");
+
 
 
 
