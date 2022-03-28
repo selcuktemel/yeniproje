@@ -7,6 +7,7 @@ public class deneme {
         System.out.println("gülşen");
         System.out.println("selçuk");
         System.out.println("proje");
+        System.out.println();
 
     }
 }
