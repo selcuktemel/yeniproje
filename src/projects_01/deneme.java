@@ -10,6 +10,8 @@ public class deneme {
         System.out.println();
         System.out.println("Bu da benim degisikligim");
         System.out.println("Simdi oldu mu acaba");
+        System.out.println("Saat: 15:41");
+
 
 
 
