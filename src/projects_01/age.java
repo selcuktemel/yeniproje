@@ -42,10 +42,10 @@ public class age {
  */
     public static <Scanner> void main(String[] args) {
 
+
         Scanner scanner = new Scanner(System.in);
 
         int myAge = scanner.nextInt();
-
        //  code Start here don't change before this line
 
         //System.out.println("too young to drink alcohol");
