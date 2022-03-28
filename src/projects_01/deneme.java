@@ -10,5 +10,10 @@ public class deneme {
         System.out.println();
         System.out.println();
 
+
+
+        // ------------
+        System.out.println("deneme 1");
+
     }
 }
