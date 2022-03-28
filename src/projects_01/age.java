@@ -40,7 +40,7 @@ public class age {
            Eğer age 21 den büyük ise
            istedigini yapabilirsin print yapın.
  */
-    public static void main(String[] args) {
+    public static <Scanner> void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
 
