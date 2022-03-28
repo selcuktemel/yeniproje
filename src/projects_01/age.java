@@ -40,7 +40,7 @@ public class age {
            Eğer age 21 den büyük ise
            istedigini yapabilirsin print yapın.
  */
-    public static <Scanner> void main(String[] args) {
+   /* public static <Scanner> void main(String[] args) {
 
 
         Scanner scanner = new Scanner(System.in);
@@ -62,10 +62,9 @@ public class age {
         } else if ( myAge < 21) {
             System.out.println("alkol icmek icin cok gencsin");
         }else {
-            System.out.println("istedigini yapabilirsin");
+            System.out.println("istedigini yapabilirsin");*/
         }
 
-    }
 
 
 
@@ -100,4 +99,5 @@ public class age {
 
 
 
-}
+
+
