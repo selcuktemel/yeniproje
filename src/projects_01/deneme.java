@@ -5,6 +5,7 @@ import javax.crypto.spec.PSource;
 public class deneme {
     public static void main(String[] args){
         System.out.println("gülşen");
+        System.out.println("selçuk");
 
     }
 }
