@@ -41,6 +41,6 @@ public class checkNumberEven {
         }else{
             System.out.println(false);
         }
-    }
 
+    }
 }
