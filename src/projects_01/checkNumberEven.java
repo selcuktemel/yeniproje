@@ -36,6 +36,7 @@ public class checkNumberEven {
         //  code Start here don't change before this line
         // Kodu burdan baslatin ve bu satırdan önceki kodlari değiştirmeyin
 
+
         if(number%2==0){
             System.out.println(true);
         }else{
